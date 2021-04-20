@@ -6,4 +6,4 @@ description: this is a meta description
 ---
 ### Frequently Asked Questions
 
-Below FAQ are some common concerns of our clients before purchasing the <br> theme, if you have other questions, please just send it to samuelolugbenga97@gmail.com
+Below FAQ are some common concerns of our clients before purchasing our <br> products, if you have other questions, please just send it to samuelolugbenga97@gmail.com
