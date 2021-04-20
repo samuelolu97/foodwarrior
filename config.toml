@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 languageCode = "en"
-title = "Hargo | Hugo Ecommerce Site"
+title = "FoodNinja"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
@@ -85,7 +85,7 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = "FoodNinja"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
@@ -94,14 +94,14 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "08109076441"
+email = "Samuelolugbenga97@gmail.com"
+location = "Ilorin , Nigeria"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 FoodNinja All Rights Reserved |"
 # Snipcart Credentials
-snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
-currencySymbol = "$"
+snipcartApiKey = "ZjE3ZTU5YTQtYWNjOS00NjNkLTg2YjktYjU5MDFiZGNmNGY1NjM3NTQ0MjMwNjYyODA2ODUx"
+currencySymbol = "#"
 
   # Preloader
   [params.preloader]
