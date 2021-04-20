@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Food stuffs at affordable prices"
   content : "we care about your well-being ,so we bring you affordable and quality foods"
-  image : "images/banner.png"
+  image : "images/food1.jpg"
   # button
   button:
     enable : true
@@ -15,7 +15,7 @@ about:
   enable : true
   title : "About Our Product"
   content : "we source our groceries and foodstuffs direclt from the farmers,so we offer fresh and out fra products.there is no middle men whatsoever "
-  image : "images/about.png"
+  image : "images/food2.jpg"
 
 
 ###################### Call to action ########################
