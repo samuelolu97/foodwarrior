@@ -106,7 +106,7 @@ currencySymbol = "#"
   # Preloader
   [params.preloader]
   enable = true
-  preloader = "" # use .png , .svg or .gif format
+  preloader = "images/Hourglass.gif" # use .png , .svg or .gif format
 
   # Product Rating
   # it works with https://rating-widget.com/ , you will get the ID and publicKey after creating your account there.
