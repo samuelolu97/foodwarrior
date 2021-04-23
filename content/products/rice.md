@@ -5,7 +5,7 @@ description: Rice
 price: "800"
 priceBefore: "900"
 shortDescription: Rice for energy and strength
-productID: "9"
+productID: "3"
 images:
 - image: 'images/rice2.png'
 
