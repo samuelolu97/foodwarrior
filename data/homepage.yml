@@ -14,7 +14,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "we source our groceries and foodstuffs directly from the farmers,so we offer fresh and out farm products.There are no middle men whatsoever "
+  content : "we source our groceries and foodstuffs directly from the farmers,so we offer fresh and out of farm products.There are no middle men whatsoever "
   image : "images/abfood.jpg"
 
 
@@ -76,7 +76,7 @@ advantage:
 video:
   enable : true
   title : "How To Use This Product?"
-  content : " simply select and add to cart the package that you want or better still create your own package by selecting the foosdtuffs ypu want"
+  content : " simply select and add to cart the package that you want or better still create your own package by selecting the foosdtuffs you want"
   videoThumb : "images/asp.jpg"
 
 ######################## Products #############################
