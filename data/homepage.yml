@@ -14,8 +14,8 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "we source our groceries and foodstuffs direclt from the farmers,so we offer fresh and out fra products.there is no middle men whatsoever "
-  image : "images/food.jpg"
+  content : "we source our groceries and foodstuffs directly from the farmers,so we offer fresh and out farm products.There are no middle men whatsoever "
+  image : "images/abfood.jpg"
 
 
 ###################### Call to action ########################
@@ -32,36 +32,36 @@ cta:
 ######################## raw material #######################
 material:
   enable : true
-  title : "some of our listed products"
-  subtitle : "quality foods at it's best "
+  title : "Some of our listed products"
+  subtitle : "Quality foods at it's best "
 
   materialItem:
     # material item loop
     - title : "Rice"
-      image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      image : "images/rice2.png"
+      content : "Quality and nutritious rice .It has undergone normal processing and it is 100% stone free"
       
     # material item loop
     - title : "Beans"
-      image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      image : "images/ewa.png"
+      content : "Different type of beans are available,including ewa oloyin,ewa agoyin.They are completely stone and weevil free"
       
     # material item loop
     - title : "Yam"
-      image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      image : "images/yam.png"
+      content : "Bundles of yam and sweet potatoes are available and at affordable prices"
       
     # material item loop
     - title : "Garri"
-      image : "images/material/material-4.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      image : "images/garri.png"
+      content : "Garri Ijebu and yellow garri are available .They have undergone proper processing and they are completly neat and stone free"
 
 ########################### Advantage #########################
 advantage:
   enable : true
   title : "Advantages Of Using <br> Our Product"
   subtitle : "check  below"
-  image : "images/advantage.png"
+  image : "images/tt.jpg"
   advantageList:
     # advantage list loop
     - listItem : "Extremely fast delivery"
@@ -77,7 +77,7 @@ video:
   enable : true
   title : "How To Use This Product?"
   content : " simply select and add to cart the package that you want or better still create your own package by selecting the foosdtuffs ypu want"
-  videoThumb : "images/video-thumb.jpg"
+  videoThumb : "images/asp.jpg"
 
 ######################## Products #############################
 products:
@@ -93,23 +93,17 @@ testimonial:
   testimonialItem:
     # testimonial item loop
     - name : "Ade samuel"
-      image : "images/clients/client-1.jpg" # size 100px*100px
+      image : "images/clients/man1.jpg" # size 100px*100px
       designation : "Student"
       content : "They offfer quality service"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Rita angela"
-      image : "images/clients/client-2.jpg" # size 100px*100px
+      image : "images/clients/man2.jpg" # size 100px*100px
       designation : "student"
-      content : "The product are so affordable .i have a good bargain for my money"
+      content : "The product are so affordable .I had good bargain for my money"
       rating : "five" # rating star, one to five
       
-    # testimonial item loop
-    - name : "john Doe"
-      image : "images/clients/client-3.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
-      rating : "five" # rating star, one to five
-      
+  
    

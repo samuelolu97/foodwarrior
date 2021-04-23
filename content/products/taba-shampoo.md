@@ -7,7 +7,7 @@ priceBefore: "900"
 shortDescription: Rice for energy and strength
 productID: "9"
 images:
-- image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcLwKByW-dQmM_g-l0RV1Hh1CkVcIatUi-4A&usqp=CAU
+- image: 'images/rice2.png'
 
 ---
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
